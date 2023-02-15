@@ -1,0 +1,18 @@
+Array : 
+=========
+
+Contageous / Continuous Memory location 
+Elements are of same type
+
+One-dimensional Array Declaration: 
+type[size] arrname;
+
+Multidimensional Array Declaration:
+type[row_size][col_size] arrname;
+
+Application
+--------------
+- Good for implementing lists
+- Contact list in Mobile phones
+- Implemention and Calculation of Matrices
+- Implimentation of DS like stacks and queues
